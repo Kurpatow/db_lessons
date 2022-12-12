@@ -1,4 +1,4 @@
-package ru.itmo.db.jpa.entity;
+package ru.itmo.db_lesson.jpa.entity;
 
 import java.time.LocalDateTime;
 

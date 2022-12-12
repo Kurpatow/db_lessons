@@ -1,4 +1,4 @@
-package ru.itmo.db.base;
+package ru.itmo.db_lesson.base;
 
 import java.util.List;
 
